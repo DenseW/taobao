@@ -1,0 +1,32 @@
+{
+	"car":[
+		{
+			"tit":"SUVI苏爸美妆店",
+			"mid":[
+				{
+					"img":"./imgs/buy1.jpg",
+					"con":"日本正品muji无印良品 温和清洁洗面奶女 高保湿洁面乳敏感肌可用",
+					"price":"36.8",
+					"hsl":"1"
+				},
+				{
+					"img":"./imgs/buy2.webp",
+					"con":"韩国悦诗风吟男士洗面奶 保湿控油去黑头祛痘角质补水洁面乳",
+					"price":"39.8",
+					"hsl":"1"
+				}
+			]
+		},
+		{
+			"tit":"Staryee珠宝直销店",
+			"mid":[
+				{
+					"img":"./imgs/buy3.webp",
+					"con":"日本设计Gold Wedding Ring 18K黄金镀银褪色戒指 创意结订婚对戒",
+					"price":"1499",
+					"hsl":"1"
+				}
+			]
+		}
+	]
+}
